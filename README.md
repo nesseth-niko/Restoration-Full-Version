@@ -229,4 +229,4 @@ This repository serves as the official landing page for Restoration. The softwar
 **Get the most recent version of Restoration today!**
 
 ---
-**Last updated:** 2026-09-13 11:22:07 UTC
+**Last updated:** 2026-09-13 15:52:00 UTC
